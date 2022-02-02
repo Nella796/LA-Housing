@@ -1,3 +1,18 @@
+Pace_LA_County.csv
+
+Pace_LA_County_Confidential.csv
+
+2020.02.03_PACE_LA_County_Programs_Address_Match_Total.xlsx
+
+Assessor_Parcels_Data_-_2006_thru_2021.csv
+
+Addresses_in_the_City_of_Los_Angeles.csv
+
+*.csv
+
+*.xlsx
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
